@@ -29,5 +29,5 @@ El objetivo es implementar mejoras sin afectar el resto del funcionamiento de la
 🔑 **Usuario:** admin | **Contraseña:** 12345
 
 ## Conclusión
-Todas las mejoras han sido implementadas de acuerdo a los criterios establecidos. La aplicación sigue funcionando correctamente sin afectar la base original.
+Todas las mejoras han sido implementadas de acuerdo a los criterios establecidos. La aplicación sigue funcionando correctamente sin afectar la base original, he cambiado la mayoria de imagenes del proyecto original para relizar pruebas.
 
