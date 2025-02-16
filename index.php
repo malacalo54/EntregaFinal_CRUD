@@ -14,7 +14,7 @@ if (!isset($_SESSION['login_attempts'])) {
 }
 
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
-    if ($_SESSION['login_attempts'] <= 3) {
+    if ($_SESSION['login_attempts'] <= 1) {
         $login = $_POST['login'];
         $password = $_POST['password'];
 
